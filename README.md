@@ -1,6 +1,8 @@
 # Shortest-Path-Degrees-AI
 Uses breadth-first search with a queue frontier to find the shortest path in connecting actors and actresses by "degrees of separation."
 
+I implemented the shortest_path(source, target) function.
+
 #### USAGE: python degrees.py [short | large - default]
 
 #### Depiction:
